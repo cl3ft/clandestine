@@ -2,6 +2,6 @@
 ##create simple clandestine messages
 #KE8CQV(cl3ft)
 
-echo "<HIT ENTER, ENTER MESSAGE, ENTER AGAIN, CTRL+D TO EXIT ()>"
-read message
+echo "<PROVIDE A MESSAGE, HIT ENTER TO ENCRYPT, CTRL+D TO EXIT>"
+#read message
 tr "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789" "WpRw3uo&%_V@1>iKF7fN9kq4GaZxI0H#gYDUiJ[8Cc6X^Mj?5+ESPd=;,Qz2r~" 
