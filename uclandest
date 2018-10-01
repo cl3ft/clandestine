@@ -1,0 +1,9 @@
+#!/bin/bash
+#utility to undress simple covert messages
+#in tandum with ./clandest
+#KE8CQV
+
+echo "<HIT ENTER, PASTE ENCRYPTION, ENTER AGAIN, CTRL+D TO DECRYPT & EXIT ()>"
+
+#read message
+tr "WpRw3uo&%_V@1>iKF7fN9kq4GaZxI0H#gYDUiJ[8Cc6X^Mj?5+ESPd=;,Qz2r~" "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789" 
